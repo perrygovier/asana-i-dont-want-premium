@@ -1,0 +1,1 @@
+// var $topBar = document.getElementById('topbar')
